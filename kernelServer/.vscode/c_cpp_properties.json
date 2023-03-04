@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/root/study/LinuxDriver/Linux_5_7_9Kernel/linux-5.7.9/include", 
+                "/root/study/LinuxDriver/Linux_5_7_9Kernel/linux-5.7.9/arch/arm/include", 
+                // "/root/study/LinuxDriver/Linux_5_7_9Kernel/linux-5.7.9/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+            // "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
